@@ -16,8 +16,8 @@ learning model which can be used to differentiation which entries are more likel
 ## Data
 The data being analyzed is located in data.zip folder.  
 * flea_flicker_contest_history.csv- This file contains the raw data being analyzed.  It was created by combining data from 
-Armchairanalysis.com and my own personal contest history from Draftkings.  Python scripts were run to output the final form
-to be analyzed.
+Armchairanalysis.com and my own personal contest history from Draftkings.  Python scripts were run to combine the two sources 
+and output the final form to be analyzed.
 * data_description.csv- This files describes what each column represents
 
 ## Acknowledgements
@@ -27,7 +27,6 @@ https://machinelearningmastery.com/columntransformer-for-numerical-and-categoric
 
 ## Summary of Findings
 After reviewing the data there are couple of interesting points. It appears which QB you roster is the cornerstone of lineup
-construction.  Rostering lower owned QBs and QBs in higher total games appear to be optimal.  Also, game stacking your QBs
-with a 2 WRs from the same team and 1 Opp WRs is the far and away the optimal stack type.
+construction.  Rostering lower owned QBs and QBs in higher total games appear to be optimal when looking at our model and data analysis.  Also, game stacking your QBs with a 2 WRs from the same team and 1 Opp WRs is the far and away the optimal stack type.
 
-A blog describing the findings also appears here: 
+A blog describing the findings more in depth also appears here: 
