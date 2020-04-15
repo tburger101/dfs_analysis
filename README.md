@@ -29,4 +29,4 @@ https://machinelearningmastery.com/columntransformer-for-numerical-and-categoric
 After reviewing the data there are couple of interesting points. It appears which QB you roster is the cornerstone of lineup
 construction.  Rostering lower owned QBs and QBs in higher total games appear to be optimal when looking at our model and data analysis.  Also, game stacking your QBs with a 2 WRs from the same team and 1 Opp WRs is the far and away the optimal stack type.
 
-A blog describing the findings more in depth also appears here: 
+A blog describing the findings more in depth also appears here: https://medium.com/@travis.rothlisberger/determining-winning-roster-construction-for-nfl-daily-fantasy-contests-a6b27b99c68c
